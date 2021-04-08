@@ -280,6 +280,7 @@ export const ProjectPreviewWrapper = styled.a`
     top: 50%;
     transform: translateY(-50%);
     transition: opacity 0.5s ease;
+    z-index: ${({active}) => active? '2': '1'};
 `
 
 export const ProjectPreviewImage = styled.img`
