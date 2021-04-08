@@ -1,0 +1,6 @@
+export {default as HTML} from './html.svg'
+export {default as CSS} from './css.svg'
+export {default as JS} from './js.svg'
+export {default as ReactJS} from './react.svg'
+export {default as PHP} from './php.svg'
+export {default as MySQL} from './mysql.svg'
